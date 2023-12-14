@@ -1,0 +1,1 @@
+g++ amf.cpp http.cpp C:/Windows/System32/ws2_32.dll -o http-server.exe
